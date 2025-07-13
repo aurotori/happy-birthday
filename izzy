@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday 🎂</title>
+  <style>
+    body {
+      background: linear-gradient(to bottom, #fff6f9, #e8f0ff);
+      font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+      text-align: center;
+      color: #333;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 3.5em;
+      color: #ff69b4;
+      margin-bottom: 10px;
+    }
+
+    .heart {
+      font-size: 2em;
+      color: #ff9dcf;
+      animation: float 2s ease-in-out infinite;
+    }
+
+    .msg {
+      max-width: 700px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.7);
+      border-radius: 20px;
+      padding: 30px;
+      font-size: 1.2em;
+      line-height: 1.7em;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday na 🎂</h1>
+  <div class="heart">🫶🏻</div>
+  <div class="msg">
+    <p>It’s been a little over a month since we got to know each other.<br>
+    Thank you for all the sweet feelings you’ve given me each day.</p>
+
+    <p>I’m really happy to have met you and to have spent time with you — even though it hasn’t been that long, every second with you truly means a lot to me 🫶🏻</p>
+
+    <p>Wishing you a wonderful 18 year filled with laughter, happiness, and beautiful memories.<br>
+    You’re growing up another year. Stay strong, but don’t forget to enjoy life in your own way too.</p>
+
+    <p>Live your 18 to the fullest! It’s such a special time in life, and you deserve all the good things 🤍</p>
+
+    <p>No matter where the future takes you…</p>
+  </div>
+  <footer>
+    from someone who’s really glad they met you 🤍<br>
+    — tori 🌸
+  </footer>
+</body>
+</html>
